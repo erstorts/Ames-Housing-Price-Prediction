@@ -54,9 +54,9 @@ Using these algorithms, the features engineered, and the various test I’d like
 
 ## Results
 
-The best model turned out to be a Gradient Boosting model with a Mean Absolute Error (MAE) of $49,306.51.  This is alright when compared to the standard deviation of $79,442.50.  This model also had the most features removed.  
+The best model turned out to be a Gradient Boosting model with a Mean Absolute Error (MAE) of $49,464.54.  This is alright when compared to the standard deviation of $79,442.50.  This model also had the most features removed.  
 
-To understand how my testing went I developed an OLS regression to see how much my testing could explain the MAE.  This explanatory model’s R-Squared is 65.37%.  However, there are no variables that are statistically significant (P-Value > .05) so none of the attributes I was attempting to study had a significant impact on MAE.  
+To understand how my testing went I developed an OLS regression to see how much my testing could explain the MAE.  This explanatory model’s R-Squared is 69.96%.  However, there are no variables that are statistically significant (P-Value > .05) so none of the attributes I was attempting to study had a significant impact on MAE.  
 
 
 ## Different Circumstances
